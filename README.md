@@ -1,5 +1,6 @@
 
-![Skate_blade_01](https://github.com/silverblurtype/silverblurtype/assets/163983174/eba6b388-cdac-4239-9623-6f14397ab373)
+![preview](https://github.com/silverblurtype/silverblurtype/assets/163983174/37d5d960-5a24-4771-a47b-a66c23b34ed1)
+
 
 <!--
 **silverblurtype/silverblurtype** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
