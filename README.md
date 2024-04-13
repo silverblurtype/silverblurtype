@@ -1,5 +1,5 @@
 
-![preview](https://github.com/silverblurtype/silverblurtype/assets/163983174/37d5d960-5a24-4771-a47b-a66c23b34ed1)
+![Introducing](https://github.com/silverblurtype/silverblurtype/assets/163983174/abf0e1a5-d165-4e39-905c-e22016bf969a)
 
 
 
