@@ -1,5 +1,5 @@
 
-![Introducing](https://github.com/silverblurtype/silverblurtype/assets/163983174/abf0e1a5-d165-4e39-905c-e22016bf969a = 500x250)
+![Introducing](https://github.com/silverblurtype/silverblurtype/assets/163983174/abf0e1a5-d165-4e39-905c-e22016bf969a= 500x250)
 
 ### Typeface collection: 
 [Skate blade](https://github.com/silverblurtype/skateblade) | [Elounda](https://github.com/silverblurtype/elounda) | [Abstante](https://github.com/silverblurtype/abstante)
